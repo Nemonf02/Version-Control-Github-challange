@@ -1,0 +1,8 @@
+1. What is a terminal?
+A terminal helps the user communicate with the CPU
+
+2.Whats the major difference between Git and Github?
+Git helps keep track and manage your source code and Github is a cloud based hosting service that manages your git.
+
+3.Why do we use Github?
+because its eaiser to work with others.
